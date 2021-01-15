@@ -1,0 +1,18 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  # main
+  - python>=3.7
+  - tinydb
+  - numpy>=1.15
+  # tests
+  - pytest
+  # dev
+  - ruamel.yaml
+  - conda-lock
+  - black
+  - isort
+  # docs
+  - sphinx>=3.1
+  - sphinxcontrib-bibtex<2.0.0
