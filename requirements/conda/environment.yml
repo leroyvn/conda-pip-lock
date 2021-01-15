@@ -5,7 +5,7 @@ dependencies:
   # main
   - python>=3.7
   - tinydb
-  - numpy=1.15
+  - numpy=1.18
   # tests
   - pytest
   # dev
