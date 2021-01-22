@@ -33,7 +33,7 @@ https://conda.anaconda.org/conda-forge/noarch/pyparsing-2.4.7-pyh9f0ad1d_0.tar.b
 https://conda.anaconda.org/conda-forge/win-64/python_abi-3.8-1_cp38.tar.bz2#18ced0580562dca07ae039050748cc50
 https://conda.anaconda.org/conda-forge/noarch/pytz-2020.5-pyhd8ed1ab_0.tar.bz2#9dbafab7fbbc1ef46a60858fb6320d8a
 https://conda.anaconda.org/conda-forge/noarch/six-1.15.0-pyh9f0ad1d_0.tar.bz2#1eec421f0f1f39e579e44e4a5ce646a2
-https://conda.anaconda.org/conda-forge/noarch/snowballstemmer-2.0.0-py_0.tar.bz2#fa34c3e7fb741022eb79169c354ca1ae
+https://conda.anaconda.org/conda-forge/noarch/snowballstemmer-2.1.0-pyhd8ed1ab_0.tar.bz2#f1d64c0cf0eedf655a96ccdc1573c05a
 https://conda.anaconda.org/conda-forge/noarch/sphinxcontrib-applehelp-1.0.2-py_0.tar.bz2#20b2eaeaeea4ef9a9a0d99770620fd09
 https://conda.anaconda.org/conda-forge/noarch/sphinxcontrib-devhelp-1.0.2-py_0.tar.bz2#68e01cac9d38d0e717cd5c87bc3d2cc9
 https://conda.anaconda.org/conda-forge/noarch/sphinxcontrib-htmlhelp-1.0.3-py_0.tar.bz2#4508a40465ebf0105e52f7194f299411
@@ -55,7 +55,7 @@ https://conda.anaconda.org/conda-forge/win-64/mypy_extensions-0.4.3-py38haa244fe
 https://conda.anaconda.org/conda-forge/win-64/numpy-1.18.5-py38h72c728b_0.tar.bz2#a9972d85ea9d45968dca3fd7a8461beb
 https://conda.anaconda.org/conda-forge/noarch/packaging-20.8-pyhd3deb0d_0.tar.bz2#1e483acb0f72b1611b50942458720169
 https://conda.anaconda.org/conda-forge/win-64/pluggy-0.13.1-py38haa244fe_4.tar.bz2#ccef3e2c529989f061d2d12af68c2731
-https://conda.anaconda.org/conda-forge/win-64/pyyaml-5.3.1-py38h294d835_2.tar.bz2#cd5961cdcb5862492194d116738da5f6
+https://conda.anaconda.org/conda-forge/win-64/pyyaml-5.4.1-py38h294d835_0.tar.bz2#6502967250cd8e7512fc8252c0da28d7
 https://conda.anaconda.org/conda-forge/win-64/regex-2020.11.13-py38h294d835_1.tar.bz2#d77f7eb3df251b610539a37a7e8b3ca8
 https://conda.anaconda.org/conda-forge/win-64/ruamel.yaml.clib-0.2.2-py38h294d835_2.tar.bz2#20e9617178b20a4f16646f32969986fe
 https://conda.anaconda.org/conda-forge/win-64/typed-ast-1.4.2-py38h294d835_0.tar.bz2#6103538f876dee69d2e2ea5cafdb14e7
@@ -69,11 +69,11 @@ https://conda.anaconda.org/conda-forge/win-64/pytest-6.2.1-py38haa244fe_1.tar.bz
 https://conda.anaconda.org/conda-forge/win-64/setuptools-49.6.0-py38haa244fe_3.tar.bz2#c104ed0b1f9f55efcf872c4af2a6036a
 https://conda.anaconda.org/conda-forge/noarch/isort-5.7.0-pyhd8ed1ab_0.tar.bz2#073e46728e0d9a8722457cbf1c335c14
 https://conda.anaconda.org/conda-forge/noarch/jinja2-2.11.2-pyh9f0ad1d_0.tar.bz2#e8a5d614d1a27bdba00059ca062a0551
-https://conda.anaconda.org/conda-forge/win-64/pybtex-0.23.0-py38haa244fe_1.tar.bz2#59eb5406cc05ff57d407fa1f0efb2bcb
-https://conda.anaconda.org/conda-forge/noarch/pygments-2.7.3-pyhd8ed1ab_0.tar.bz2#d963eb6df37d0a32fd2c12eeae3f5cf9
+https://conda.anaconda.org/conda-forge/win-64/pybtex-0.24.0-py38haa244fe_0.tar.bz2#4ec0cceddc496007049c563b904fe1cb
+https://conda.anaconda.org/conda-forge/noarch/pygments-2.7.4-pyhd8ed1ab_0.tar.bz2#d162b2e135758c51410bacfa6f5ef5bb
 https://conda.anaconda.org/conda-forge/noarch/pyopenssl-20.0.1-pyhd8ed1ab_0.tar.bz2#92371c25994d0f5d28a01c1fb75ebf86
 https://conda.anaconda.org/conda-forge/win-64/ruamel.yaml-0.16.12-py38h294d835_2.tar.bz2#d4f5263823d1ce6ab26f92cf956efb8c
-https://conda.anaconda.org/conda-forge/win-64/pybtex-docutils-0.2.2-py38haa244fe_3.tar.bz2#20a2be83468138486abe763256932628
+https://conda.anaconda.org/conda-forge/win-64/pybtex-docutils-1.0.0-py38haa244fe_0.tar.bz2#d551262bbcb84ea0e4511595099fa107
 https://conda.anaconda.org/conda-forge/noarch/urllib3-1.26.2-pyhd8ed1ab_0.tar.bz2#8bb930d172961c9ba9ffd6e10a64b844
 https://conda.anaconda.org/conda-forge/noarch/requests-2.25.1-pyhd3deb0d_0.tar.bz2#ae687aba31a1c400192a86a2e993ffdc
 https://conda.anaconda.org/conda-forge/noarch/ensureconda-1.4.1-pyhd8ed1ab_0.tar.bz2#52a7f7cc9076e2c8a25e15e19ad42821

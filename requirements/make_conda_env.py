@@ -23,7 +23,7 @@ def cli(sections, input_dir, output, quiet):
     yaml.indent(offset=indent_offset)
 
     # Load environment file template
-    with open("requirements/conda/environment.in") as f:
+    with open(os.path.join("requirements", "environment.in")) as f:
         env_yml = yaml.load(f.read())
 
     # Extract dependency section contents
@@ -34,7 +34,7 @@ def cli(sections, input_dir, output, quiet):
 
     for section in sections:
         section_indices[section] = i
-        with open(f"requirements/conda/{section}.in") as f:
+        with open(os.path.join("requirements", f"{section}.in")) as f:
             for line in f.readlines():
                 line = line.strip()
                 if line:
@@ -56,7 +56,7 @@ def cli(sections, input_dir, output, quiet):
     # Output to file
     if output is not None:
         with open(output, "w") as outfile:
-            if not quiet: 
+            if not quiet:
                 print()
             print(f"Saving to {output}")
             yaml.dump(env_yml, outfile)
